@@ -1,2 +1,2 @@
-# receipt_detecttion-fasym-v1
+# Receipt Detection Model testing
  
